@@ -25,9 +25,12 @@ Network_packet_sniffer.
 
    
 
-📌 Internship Details
+📌 Internship Details:
+
 Duration: 15th June 2025 – 15th July 2025
+
 Organization: Prodigy InfoTech
+
 Role: Cybersecurity Intern
 
 

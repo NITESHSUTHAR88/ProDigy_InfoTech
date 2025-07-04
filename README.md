@@ -23,6 +23,8 @@ Network_packet_sniffer.
 -> Network_Packet_Sniffer tool:
    A python  based tool that is used to capture and analyze network packets in real time using "Scapy". Designed for educational and ethical hacking purposes, this tool helps to understand network traffic, protocols, and packet structures.
 
+   
+
 📌 Internship Details
 Duration: 15th June 2025 – 15th July 2025
 Organization: Prodigy InfoTech
